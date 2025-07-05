@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class Cart {
-    private Map<Product, Integer>items = new HashMap<>();
+    private Map<Product, Integer> items = new HashMap<>();
     
     public void add(Product product, int quantity) {
         if(quantity > product.getQuantity()) {
