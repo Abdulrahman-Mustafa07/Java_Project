@@ -17,16 +17,25 @@ CheckOut.process(customer, cart);
 # Output
 
 ** Shipment notice **
+
 2x Cheese       400g
+
 1x Biscuits     700g
+
 Total Weight : 1.1kg
 
+
 ** Checkout receipt **
+
 2x Cheese       200
+
 1x Scratch Card 50
+
 1x Biscuits     150
 
+
 Subtotal        400
+
 Shipping        10
 Amount          410
 Customer Balance: 90
