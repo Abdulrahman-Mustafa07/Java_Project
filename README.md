@@ -37,5 +37,7 @@ Total Weight : 1.1kg
 Subtotal        400
 
 Shipping        10
+
 Amount          410
+
 Customer Balance: 90
